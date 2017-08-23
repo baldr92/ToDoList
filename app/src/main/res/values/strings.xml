@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="tasks">Мои задачи</string>
+    <string name="add_task">Добавить задачу</string>
+    <string name="hint_new_task">Введите вашу задачу здесь</string>
+    <string name="sender">Создать задачу</string>
+</resources>
